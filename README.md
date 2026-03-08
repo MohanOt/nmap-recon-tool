@@ -19,3 +19,4 @@ Enter target IP when prompted.
 
 ## Purpose
 Demonstrate network reconnaissance techniques used in penetration testing.
+![Screenshot](nmap.png)
